@@ -22,6 +22,7 @@ set(SOURCES
     main.cpp
     my_class.hpp
     my_class_test.hpp
+    RAII_Wrapper.hpp
 )
 
 #-------------------------------------------------------------------#
